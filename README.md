@@ -21,3 +21,4 @@ The 6 machine learning techniques are:
 Each of these techniques were used to look into differect factors and their potential impact on the value of the property sale.
 
 ## Usage
+To view the dashboard, visit the page: https://ariqrashid.github.io/NC-Property-Sale-Value/
